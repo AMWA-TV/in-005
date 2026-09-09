@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://specs.amwa.tv/new/in-template/latest/</loc>
+        <loc>https://specs.amwa.tv/new/in-005/latest/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/in-template/latest/Overview/</loc>
+        <loc>https://specs.amwa.tv/new/in-005/latest/Overview/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/in-template/latest/images/</loc>
+        <loc>https://specs.amwa.tv/new/in-005/latest/images/</loc>
       </url>
 </urlset>
