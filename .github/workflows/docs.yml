@@ -25,8 +25,8 @@ jobs:
     uses: AMWA-TV/amwa-spec-docs/.github/workflows/docs.yml@main
     with:
       versioned: false
-      site-name: in-template
-      public-docs-root: https://specs.amwa.tv/new/in-template
+      site-name: in-005
+      public-docs-root: https://specs.amwa.tv/new/in-005
       source-ref: ${{ inputs.ref || github.ref_name }}
       # Pin this to a released toolkit tag or commit SHA once available.
       toolkit-ref: main

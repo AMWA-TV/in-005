@@ -10,20 +10,15 @@ This repository holds the source of a work artifact published as an **[AMWA Incr
 
 ### What does it do?
 
-- Provides a template for creating new AMWA Increments
+- 
 
 ### Why does it matter?
 
-- AMWA Increments (IN-xxx) record incremental outputs of AMWA activity phases
-- They may stand on their own or be referenced by other documents, such as the NMOS specifications
-- This template helps ensure consistency between Increments.
-- It also helps us test our continuous integration.
+- 
 
 ### How does it work?
 
-- It contains [examples of documentation](docs/Overview.md) useful in AMWA Increments
-- It provides a style guide and other advice for authors
-- Select `AMWA-TV/in-005` as the template when creating the new repo
+- 
 
 This work artifact is published as an **AMWA Increment (IN)**. Increments are intended to make public the ongoing progress of a working group without locking decisions into a formal specification. While the technical details contained in this repository do not constitute a stable or finalized specification, readers should note that Increments are Draft Specifications as defined in the AMWA IPR Policy. The provisions of the policy apply, including the requirement for early disclosure. You can expect the content to evolve incrementally based on ongoing testing, consensus-building, and community input. Public review is encouraged! Please post an Issue to the Repo to submit questions, feedback, or propose changes.
 
