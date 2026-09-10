@@ -1,4 +1,4 @@
-# [Timing] Principles of External Signal Ingress for DMF Media Workloads
+# \[Timing\] Principles of External Signal Ingress for DMF Media Workloads
 
 _(c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 

@@ -1,4 +1,5 @@
-# \[Work In Progress\] AMWA IN-005: [Timing] Principles of External Signal Ingress for DMF Media Workloads\n
+# \[Work In Progress\] AMWA IN-005: \[Timing\] Principles of External Signal Ingress for DMF Media Workloads
+
 [![Lint Status](https://github.com/AMWA-TV/in-005/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/in-005/actions/workflows/lint.yml)
 [![Zensical Render Status](https://github.com/AMWA-TV/in-005/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/in-005/actions/workflows/docs.yml)
 [![License](https://img.shields.io/github/license/AMWA-TV/in-005)](https://github.com/AMWA-TV/in-005/blob/HEAD/LICENSE)
