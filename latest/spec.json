@@ -1,0 +1,26 @@
+{
+  "amwa_id": "IN-005",
+  "url": "https://specs.amwa.tv/in-005",
+  "name": "[Timing] Principles of External Signal Ingress for DMF Media Workloads",
+  "status": "Work In Progress",
+  "repo_name": "in-005",
+  "alt_repo_name": null,
+  "repo_url": "https://github.com/AMWA-TV/in-005",
+  "releases": null,
+  "default_branch": "main",
+  "show_in_index": false,
+  "intro": {
+    "what_does_it_do": [
+      "Defines principles for ingesting external media Signals into a Dynamic Media Facility (DMF) Media Workload and conforming them into usable, time-aligned Flows.",
+      "Identifies the timing provenance, metadata, and registry information needed to manage Signals as they enter the Media Workload."
+    ],
+    "why_does_it_matter": [
+      "External Signals may have different frequency and timestamp provenance, so consistent ingress conformance is needed to align media Flows and support interoperable processing.",
+      "Clear conformance principles help avoid unnecessary buffering and make timing adjustments traceable."
+    ],
+    "how_does_it_work": [
+      "Uses Signal frequency and timestamp provenance, together with the Media Workload clock, to determine how Indexing Time Stamps are created or adjusted.",
+      "Applies frame synchronisation or audio sample-rate conversion when required, and records relevant Signal attributes and timing offsets in an ingress registry."
+    ]
+  }
+}
