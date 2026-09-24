@@ -21,14 +21,14 @@ Previous document reference: [https://specs.amwa.tv/in-002/Overview/](https://sp
 - The ingress ‘Conformance’ process ensures all DMF flows can be used as ‘aligned’ within the Media Workload  
 - The Conformance Function will be more or less onerous depending on the properties of the incoming Signal  
 - There are two key properties of an incoming Signal that determine what processing the ingress conformance needs to do:  
-  - Frequency provenance  
-  - Timestamp provenance (if present)  
+    - Frequency provenance
+    - Timestamp provenance (if present)
 - An ingress registry is required to record key incoming Signal attributes  
-  - Incoming Signal frequency derivation \- e.g. traceable to global timing reference  
-  - Status of Incoming Signal timestamp (if present) \- usability and effective resolution  
-  - Offset applied to timestamp on ingress (ns) (and potentially reason for offset)  
-  - Listing of other related incoming Signals that have a timing relationship that need to be preserved  
-  - Specification for this registry and how it can be queried by Media Functions is a future topic.
+    - Incoming Signal frequency derivation \- e.g. traceable to global timing reference
+    - Status of Incoming Signal timestamp (if present) \- usability and effective resolution
+    - Offset applied to timestamp on ingress (ns) (and potentially reason for offset)
+    - Listing of other related incoming Signals that have a timing relationship that need to be preserved
+    - Specification for this registry and how it can be queried by Media Functions is a future topic.
 
 ![](images/JT-DMF Ingress v7-with-embedded.drawio.png)  
 **Figure 3: Example of multi-Signal Ingress**
