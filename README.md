@@ -21,7 +21,7 @@ This repository holds the source of a work artifact published as an **[AMWA Incr
 
 ### How does it work?
 
-- Uses Signal frequency and timestamp provenance, together with the Media Workload clock, to determine how Indexing Time Stamps (as defined in [AMWA IN-002: Time and Identity in the Dynamic Media Facility]([https://specs.amwa.tv/in-index](https://github.com/AMWA-TV/in-002)) are created or adjusted.
+- Uses Signal frequency and timestamp provenance, together with the Media Workload clock, to determine how Indexing Time Stamps (as defined in [AMWA IN-002: Time and Identity in the Dynamic Media Facility]([https://specs.amwa.tv/in-002](https://github.com/AMWA-TV/in-002)) are created or adjusted.
 - Applies frame synchronisation or audio sample-rate conversion when required, and records relevant Signal attributes and timing offsets in an ingress registry.
 
 This work artifact is published as an **AMWA Increment (IN)**. Increments are intended to make public the ongoing progress of a working group without locking decisions into a formal specification. While the technical details contained in this repository do not constitute a stable or finalized specification, readers should note that Increments are Draft Specifications as defined in the AMWA IPR Policy. The provisions of the policy apply, including the requirement for early disclosure. You can expect the content to evolve incrementally based on ongoing testing, consensus-building, and community input. Public review is encouraged! Please post an Issue to the Repo to submit questions, feedback, or propose changes.
