@@ -11,7 +11,7 @@ This repository holds the source of a work artifact published as an **[AMWA Incr
 
 ### What does it do?
 
-- Defines principles for ingressing external media Signals into a Dynamic Media Facility (DMF) Media Workload and conforming them into usable, time-aligned Flows.
+- Defines principles for ingress of external media Signals into a Dynamic Media Facility (DMF) Media Workload and conforming them into usable, time-aligned Flows.
 - Identifies the timing provenance, metadata, and registry information needed to manage Signals as they enter the Media Workload.
 
 ### Why does it matter?
